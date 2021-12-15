@@ -1,5 +1,4 @@
-# Shared Bikes Case Study
-> Outline a brief description of your project.
+# Bike Sharing Case Study
 
 
 ## Problem Statement:
